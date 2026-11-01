@@ -136,6 +136,15 @@ Activities included:
 
 ---
 
+## Project Outcome
+
+- Reduced manual effort required for information gathering and research preparation.
+- Automated the consolidation of data from multiple sources.
+- Generated structured fundamental and technical analysis through AI-powered workflows.
+- Improved scalability and efficiency of the equity research process.
+
+---
+
 ## My Role
 
 As the AI Workflow Developer, I was responsible for:
@@ -149,9 +158,7 @@ As the AI Workflow Developer, I was responsible for:
 
 ---
 
-## Project Outcome
+## Solution Architecture (Workflow Diagram):
+<img width="1112" height="535" alt="螢幕擷取畫面 2026-10-31 153639" src="https://github.com/user-attachments/assets/8c4487e6-3e62-40f4-a686-97f2e23d0708" />
 
-- Reduced manual effort required for information gathering and research preparation.
-- Automated the consolidation of data from multiple sources.
-- Generated structured fundamental and technical analysis through AI-powered workflows.
-- Improved scalability and efficiency of the equity research process.
+
